@@ -121,13 +121,14 @@ body{
     font-size: small;
     font-weight:bold;
     cursor: pointer;
+    background-color: white;
+    border: none;
 }
 
 
 .btn:first-child{
    background-color: black;
    color: white;
-   border: none;
 }
 
 
@@ -173,6 +174,7 @@ font-size: small;
 
 .artist-card{
     line-height: 2rem;
+    cursor: pointer;
 }
 
 .artist-img{
